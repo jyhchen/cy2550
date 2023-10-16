@@ -23,7 +23,11 @@ interfail:1234
 apenguinov:mickey
 ravagergyps:asdfgh
 keymialia:gateway
+shortoeve:upwound
+dunawitec:bashyle
 bigghappy:ravenous
+baignolje:quenelles
 cacklynet:seaming
+craziinan:Cataian
 
-27 password hashes cracked, 23 left
+31 password hashes cracked, 19 left
