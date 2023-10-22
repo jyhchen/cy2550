@@ -39,5 +39,7 @@ milknomain:Jocote0
 makiomed:Obviator7
 superti:Mistetch1
 olympicwire:3ucon3
+prothenorn:preleased_
+updateson:apteryges$9
 
-41 password hashes cracked, 9 left
+43 password hashes cracked, 7 left
